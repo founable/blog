@@ -1,0 +1,5 @@
+baseurl = "http://founable.com/"
+languageCode = "en-us"
+title = "Founable"
+theme = "hugo_theme_beg"
+googleAnalytics = "UA-XXXXXXXX-XX" # Optional
