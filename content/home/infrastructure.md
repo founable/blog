@@ -1,4 +1,5 @@
 +++
+<<<<<<< HEAD
 title = "Infrastructure"
 description = "Infrastructure"
 draft = false
@@ -6,6 +7,23 @@ draft = false
 +++
 
 # Infrastructure
+=======
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+
+
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Infrastrature"
+subtitle = "Technology behind this site"
+
+# Order that this section will appear in.
+weight = 50
+
++++
+>>>>>>> master
 
 Founable is a open source static sites generated via hugo.io. It is hosted in GitHub with GitHub Page and domain by Google
 

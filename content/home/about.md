@@ -1,7 +1,13 @@
 +++
+<<<<<<< HEAD
 title = "About"
 description = "About"
 draft = false
+=======
+widget = "about"
+active = true
+weight = 100
+>>>>>>> master
 
 +++
 
