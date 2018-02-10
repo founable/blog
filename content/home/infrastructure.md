@@ -1,11 +1,9 @@
-+++
-title = "Infrastructure"
-description = "Infrastructure"
-draft = false
-
-+++
-
-# Infrastructure
+---
+menu: Infrastructure
+title: Infrastructure
+date:
+weight: 9
+---
 
 Founable is a open source static sites generated via hugo.io. It is hosted in GitHub with GitHub Page and domain by Google
 
