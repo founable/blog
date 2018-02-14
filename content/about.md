@@ -1,8 +1,6 @@
 ---
-menu: About
-date : "2016-11-27"
-weight: 10
-title : About
+title : "About"
+date: "2017-01-01"
 ---
 
 It started with a YouTube video where Corey Goode was interviews by David Wilcock. From David Wolcock, i found The Law of One(Ra Material) by L/L Research and started listen to the audio books.
