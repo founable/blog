@@ -2,16 +2,16 @@
 title = "Connecting With Angels"
 description = "Connecting With Angels"
 date = "2018-01-09"
-categories = ["Energy"]
+categories = ["Angel"]
 tags = ["Energy","Healing","Angel","Meetup"]
 draft = false
 
 +++
 
-# Guardian Angel
+## Guardian Angel
 We are assigned our Guardian Angel at birth and are you protector and guide. We connect with them even before we come to Earth, our soul knows our Guardian Angel. Their energy is very subtle and they will not do anything to scare you. They connect with you through mind and intuition. They are always next to you giving you their love and support. When you connect with your Guardian Angel, they remind you of your life purpose and things you've forgotten
 
-# Exercise to connect with your Gourdian Angel
+## Exercise to connect with your Gourdian Angel
 - Sit quietly and focus your breath and relax
 - Start inhale with your nose, raise your chest and expend your stomach when breading in, hold your breath for few second then blow out from yout mouth slowly. Do this for about 3 time then breath normal.
 - Ground yourself by picturing roots coming out of your feet into ground or you can picture the roots from your root chakra then bring your energy back to your heart
@@ -23,4 +23,6 @@ We are assigned our Guardian Angel at birth and are you protector and guide. We 
 - Ask if they have a message or gift for you
 - Thank them for their presence
 
-Namaste
+By  
+Rosa Garcia  
+Angel Healer
