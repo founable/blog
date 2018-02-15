@@ -5,7 +5,7 @@ date = "2017-12-07"
 categories = ["Energy"]
 tags = ["Healing","Energy","Meetup"]
 draft = false
-
+type = "post"
 +++
 
 There were 7 of us in this circle today. It was my first time attend this group and i am getting more comortable meeting people for the first time and be able to express my thought in words. The session started with creating energy bubble or sphere with hand. I started perform my own little bubble i learned from Aurora(Rising Phonix Aurora) to protect me becuase i have no idea what i will be experiencing during this session.

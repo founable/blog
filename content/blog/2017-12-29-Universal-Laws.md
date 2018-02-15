@@ -5,7 +5,7 @@ date = "2017-12-29"
 categories = ["Energy"]
 tags = ["Universal Laws"]
 draft = false
-
+type = "post"
 +++
 
 1. Law Of Divine Oneness

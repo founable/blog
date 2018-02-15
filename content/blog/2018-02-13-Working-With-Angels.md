@@ -5,7 +5,7 @@ date = "2018-02-13"
 categories = ["Angel"]
 tags = ["Energy","Healing","Angel","Meetup"]
 draft = false
-
+type = "post"
 +++
 ## Archangel Rapheal
 

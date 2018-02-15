@@ -5,6 +5,7 @@ date = "2017-12-19"
 categories = ["Energy"]
 tags = ["Energy","Healing","YouTube"]
 draft = false
+type = "post"
 +++
 
 This is reference to the movie Inception (2010) by Christophor Nolan. The concept of multiple levels depth of dreams within dreams. This same concept can be apply to multi level of entities attachment and healing.

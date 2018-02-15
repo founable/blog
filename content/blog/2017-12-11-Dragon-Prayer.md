@@ -5,7 +5,7 @@ date = "2017-12-11"
 categories = ["Energy"]
 tags = ["Energy","Dragon"]
 draft = false
-
+type = "post"
 +++
 
 Prayer from the Dragons by Rising Phonix Aurora

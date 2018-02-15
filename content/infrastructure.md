@@ -1,7 +1,6 @@
 +++
 title = "Infrastructure"
 date = "2016-11-27"
-
 +++
 
 Founable is a open source static sites generated via hugo.io. It is hosted in GitHub with GitHub Page and domain by Google
@@ -15,21 +14,21 @@ HUGO is created with [Go Programming Language](https://golang.org/) with no othe
 A few command that make me like HUGO more than Jekyll
 
 Run local server with Jekyll
-```
-bundle exec jekyll serve
+
+```bundle exec jekyll serve
 ```
 
 Run local server with HUGO
-```
-hugo server
+
+```hugo server
 ```
 
 Build with Jekyll
-```
-jekyll build --destination <destination>
+
+```jekyll build --destination <destination>
 ```
 
 Build with HUGO
-```
-hugo --destination <destination>
+
+```hugo --destination <destination>
 ```

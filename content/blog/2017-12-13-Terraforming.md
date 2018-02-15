@@ -5,6 +5,7 @@ date = "2017-12-13"
 categories = ["Energy"]
 tags = ["Energy","Gaia","Terra"]
 draft = false
+type = "post"
 +++
 
 ### What is synchronicity ? What is coincident ?

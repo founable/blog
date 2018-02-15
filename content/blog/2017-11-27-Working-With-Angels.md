@@ -5,7 +5,7 @@ date = "2017-11-27"
 categories = ["Angel"]
 tags = ["Energy","Healing","Angel","Meetup"]
 draft = false
-
+type = "post"
 +++
 
 ## Angel Fundementals

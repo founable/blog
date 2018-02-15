@@ -5,7 +5,7 @@ date = "2017-11-27"
 categories = ["Energy"]
 tags = ["Healing", "Energy","Meetup"]
 draft = false
-
+type = "post"
 +++
 
 Today was an evenful meetup. It was my first time experience this in person. When i first walked in , i have a message from the organizer. You are open but not ready... I was supprise and i know that i am open to learn and to experience but was not ready to take the next step yet because i felt that i still have more to learn and take care of my own personal development. The most bizzare event was she had a message to tell me on my own knowing and i did not said anything about it.

@@ -5,7 +5,7 @@ date = "2017-12-22"
 categories = ["Healing"]
 tags = ["Soul Speak"]
 draft = false
-
+type = "post"
 +++
 
 # Anger And Cancer
