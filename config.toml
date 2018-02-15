@@ -135,6 +135,12 @@ pluralizeListTitles = false
   identifier = "fas fa-sitemap"
   weight = 5
 
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  identifier = "fas fa-tag"
+  weight = 6
+
 # [[menu.main]]
 #   name = "Contact"
 #   url = "/contact/"
