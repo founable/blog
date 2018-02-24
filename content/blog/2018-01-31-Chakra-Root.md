@@ -54,7 +54,6 @@ Physical Aspected Regulated | Signs Of Imbalance
 --- | ---
 Kidneys, blood, skeletal system, immune system, rectum | Arthritis, kidney stones, osteoporosis, bone problem, autoimmune deficiencies, rectal problems, addictions, varicose veins, chonic lower back pain, depression
 
-
 By  
 Dina Patel  
 Holistic Health Counselor  
