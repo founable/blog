@@ -3,14 +3,14 @@ languageCode = "en-us"
 title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 5
 disqusShortname = ""
 googleAnalytics = ""
 pluralizeListTitles = false
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Energy Blog"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Founable"
   # Sets where "View More Posts" links
@@ -108,44 +108,44 @@ pluralizeListTitles = false
 [[menu.main]]
   name = "Home"
   url = "/"
-  identifier = "fas fa-home"
+  identifier = "fa fa-home"
   weight = 1
 
 [[menu.main]]
   name = "About"
   url = "/about/"
-  identifier = "fas fa-id-card"
+  identifier = "fa fa-id-card"
   weight = 2
 
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
-  identifier = "fas fa-newspaper"
+  identifier = "fa fa-newspaper"
   weight = 3
 
-# [[menu.main]]
-#   name = "Itemized"
-#   url = "/itemized/"
-#   identifier = "fas fa-list"
-#   weight = 4
+[[menu.main]]
+  name = "RA Collective"
+  url = "/RA/"
+  identifier = "fa fa-list"
+  weight = 4
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
-  identifier = "fas fa-sitemap"
+  identifier = "fa fa-sitemap"
   weight = 5
 
 [[menu.main]]
   name = "Tags"
   url = "/tags/"
-  identifier = "fas fa-tag"
+  identifier = "fa fa-tag"
   weight = 6
 
-# [[menu.main]]
-#   name = "Contact"
-#   url = "/contact/"
-#   identifier = "fas fa-envelope-o"
-#   weight = 6
+[[menu.main]]
+  name = "Resources"
+  url = "/Resources/"
+  identifier = "fa fa-envelope-o"
+  weight = 7
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop

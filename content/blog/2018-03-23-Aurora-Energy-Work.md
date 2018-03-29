@@ -7,6 +7,7 @@ tags = ["Energy","Healing","Dragon","Guide"]
 draft = true
 type = "post"
 +++
+
 ## Online Akashi Reading/Energy Work with Aurora
 
 I needed some spiritual guidance during this times when i was lost in life, it was a wonderfull session where i get answer for some very deep question that i have and i need some confirmation of what is that and what i need to do. 
@@ -23,12 +24,12 @@ I have the free will to choose to learn my lesson and be done with it or repeat 
 
 ## Spiritual Guide
 
-Buddha and GuanYin are my guides appeared during the session. I have a picture of both of them framed and hang for in my house
+Buddha and GuanYin are my guides appeared during the session. I have a picture framed of both of them hang for in my house
 I have been attending spiritual meetup group where i learn to medidate, connect to my guides, chakras 
 
 ## Past Life
 
-I was a monk that acended abd and the guardian of a portal
+I am a monk that ascended, I am guardian of the portal of ascension
 
 ## Dragons
 
