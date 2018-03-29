@@ -1,6 +1,6 @@
 +++
-title = "Energy Work"
-description = "Aurora - Online Akashi Reading/Energy Work"
+title = "Online Akashi Reading/Energy Work"
+description = "My energy work"
 date = "2018-02-23"
 categories = ["Energy"]
 tags = ["Energy","Healing","Dragon","Guide"]
