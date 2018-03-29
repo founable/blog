@@ -12,7 +12,9 @@ type = "post"
 
 This is the transcript for Q/A portion only. I tried my best by using my experience from reading the Law of One series to edit the transcript from YouTube.
 
-Aurora: I am RA. We greet you and the love of the Infinite Creator. We thank all who is here, listening to our messages through this instrument. This instrument has been tuned in ensuring the distortion of our messages today shall be not interfered with. We come to you in unity as one. We are the guardians that within the laws of free will. We enter universes or star collectives when we are called upon only for we come from the love/light light/love of the Infinite Creator and on earth and respect the laws of unity of the law of one. We thank you once more you may ask your question now.
+---
+
+Aurora: I am RA. We greet you in the love of the Infinite Creator. We thank all who is here, listening to our messages through this instrument. This instrument has been tuned in ensuring the distortion of our messages today shall be not interfered with. We come to you in unity as one. We are the guardians that within the laws of free will. We enter universes or star collectives when we are called upon only for we come from the love/light light/love of the Infinite Creator and on earth and respect the laws of unity of the law of one. We thank you once more you may ask your question now.
 
 Julia: Thank you. I'm honored to be here with you today. The first question I would like to ask will lead us into a couple more so we'll start with if you could please tell us more about the Wanderers who they are and what their roles are and what issues do you see that many of them are facing at this time.
 
@@ -59,3 +61,5 @@ Julia: Thank you very much. I appreciate the example that you can about the Hurr
 Aurora: I am Ra. We shall we leave this group now and remind you to rejoice and the love in the infinite love in the love and infinite of the one creator. Adonai.
 
 Julia: Thank You. Aurora.
+
+---

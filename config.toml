@@ -10,7 +10,7 @@ pluralizeListTitles = false
 
 [params]
   # Sets the meta tag description
-  description          = "Energy Blog"
+  description          = "Founable Blog"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Founable"
   # Sets where "View More Posts" links
@@ -82,9 +82,9 @@ pluralizeListTitles = false
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Blog"
+  header    = "Founable"
 
-  paragraph = "Welcome <i class='fas fa-cog'></i>"
+  paragraph = "Welcome"
 
   about     = "The Awakening Beginning"
 
@@ -130,9 +130,9 @@ pluralizeListTitles = false
   weight = 4
 
 [[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  identifier = "fa fa-sitemap"
+  name = "Collective"
+  url = "/collective/"
+  identifier = "fa fa-users"
   weight = 5
 
 [[menu.main]]
@@ -141,18 +141,18 @@ pluralizeListTitles = false
   identifier = "fa fa-tag"
   weight = 6
 
-[[menu.main]]
-  name = "Resources"
-  url = "/Resources/"
-  identifier = "fa fa-envelope-o"
-  weight = 7
+# [[menu.main]]
+#   name = "Categories"
+#   url = "/categories/"
+#   identifier = "fa fa-sitemap"
+#   weight = 7
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = ""
+  github           = "founable"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -167,7 +167,7 @@ pluralizeListTitles = false
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = ""
+  linkedin         = "jackteoh"
   linkedin_company = ""
   foursquare       = ""
   xing             = ""
