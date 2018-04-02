@@ -1,9 +1,9 @@
 +++
 title = "RA Collective Channel"
-description = "RA Collective Channel, Part 2"
+description = "Q/A  Part 2, RA Collective Channel by Aurora"
 date = "2018-03-28"
 categories = ["RA"]
-tags = ["RA", "Energy","Channel"]
+tags = ["RA", "Energy","Channel","YouTube"]
 draft = false
 type = "post"
 +++
