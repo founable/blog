@@ -1,5 +1,4 @@
 +++
-+++
 title = "Working With Angels"
 description = "Working With Angels"
 date = "2018-04-10"
