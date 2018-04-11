@@ -66,3 +66,7 @@ Talk to all my crystal, ask and whichever i look at or touch will be the one tha
 ## Dragons
 
 I am ancient and i have an ancient green serpentine dragon with mustache that is as old as me. He is male and a fractal of me. He is me and i am him. My dragon created a bridge connection of my mind's eye with my heart center for further expension.
+
+---
+
+Namaste

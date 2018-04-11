@@ -15,4 +15,6 @@ I have discovered a good video on creating energy bubble or sphere for protectio
 
 "I invoke the I AM in me so that i may be visible to opportunity and invisible to danger."
 
+---
+
 Namaste

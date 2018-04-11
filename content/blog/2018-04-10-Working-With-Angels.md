@@ -1,6 +1,6 @@
 +++
 title = "Working With Angels"
-description = "Working With Angels"
+description = "Archangel Jophiel"
 date = "2018-04-10"
 categories = ["Angel"]
 tags = ["Energy","Healing","Angel","Meetup"]
@@ -14,8 +14,8 @@ God's beauty, can help see the beauty of the world around us. She can help you m
 
 ---
 
-Color: Dark Pink
-Stone: Pink or Red Tourmaline
+- Color: Dark Pink
+- Stone: Pink or Red Tourmaline
 
 ---
 
@@ -36,3 +36,8 @@ Thank you, Archangel Jophiel for clearing the clustter in my mind so that i can 
 # Connect with Archangel Jophiel
 
 I breathe deeply and fill my core with fresh clean air. As i exhale, I release the clutter of my mind and body. Doing this, I allow myself to see and hear more clearly. Thank you, Archangel Jophiel for supporting me as i discover my inner beauty, and for silencing the voice of my ego so that i can clearly hear god. I feel so alive knowingy your wings are taking me forward. And so it is!
+
+---
+
+By  
+Rosa Garcia  

@@ -17,4 +17,6 @@ I pause a little bit to think and i answer was i have been working with energy. 
 
 What i learned is everyone emit aura because we are a form of vibration. I can't see but technology can and this photo has proven it.
 
+---
+
 Namaste

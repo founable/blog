@@ -27,6 +27,8 @@ Believing in Angels doesn't have to be a public display, it can be as private as
 ## Simple Prayer to Welcome Angels
 Thank you Angels for joining me in my journey. It is good to know that you are real and are with me. I welcome you into my life to guide me and to show me a more loving and fulfilled life. With your help I let go of all the barriers that prevent me from allowing your loving presense in my life. I open my heart to love from this day forward. And so it is! Again, Thank you Angels!
 
+---
+
 By  
 Rosa Garcia  
 Angel Healer

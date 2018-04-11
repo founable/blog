@@ -14,4 +14,6 @@ Next was a kind of healing with the receiver of energy in the middle and the pro
 
 Today, i learned that i am able to see with my eyes close which some people say seeing with the third eye. My issue was, is this my conscious mind messing around or i actually can see with my third eye. That is my question that i am still discovering and learning.
 
+---
+
 Namaste

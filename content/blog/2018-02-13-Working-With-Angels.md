@@ -1,18 +1,19 @@
 +++
 title = "Working With Angels"
-description = "Working With Angels"
+description = "Archangel Rapheal"
 date = "2018-02-13"
 categories = ["Angel"]
 tags = ["Energy","Healing","Angel","Meetup"]
 draft = false
 type = "post"
 +++
+
 ## Archangel Rapheal
 
 The Divine Healer, can help with healings on all levels and you can also call him when traveling for safe travels.
 
-Color: Emerald Green  
-Stone: Malachite, Emerald
+- Color: Emerald Green  
+- Stone: Malachite, Emerald
 
 ## Healing Medidations with Archangel Rapheal
 

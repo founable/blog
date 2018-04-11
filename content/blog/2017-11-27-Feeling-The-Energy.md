@@ -12,4 +12,6 @@ Today was an evenful meetup. It was my first time experience this in person. Whe
 
 Next was the energy and healing session for a lady that attended. I was just an audieance sitting on the south east of the room. The lady was on the floor resting face up with the head on the north side of the room. There were 4 people sitting around her, each on the north, south, east and west of the lady. Long story short, there was tons of energy flowing throughout the room and i felt it.
 
+---
+
 Namaste

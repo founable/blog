@@ -16,4 +16,6 @@ I have learn that the cause of cancer was anger and i also have watched, listen 
 
 "We have found through Dolores's work that cancer is unresolved and deeply suppressed anger. Anger about something that has been held in for so long, it has churned in on itself without any form of release and has now become a disease that must be addressed. The part of the body in which the cancer is located will tell you what the person is angry about"  - [Julia Cannon](http://www.juliacannon.com/)
 
+---
+
 Namaste

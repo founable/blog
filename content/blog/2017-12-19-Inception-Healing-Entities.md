@@ -19,4 +19,6 @@ Entities sometimes may appear to be negative or evil but it is not true because 
 
 Healing also can be perform on this multiple level dimension and density. It is like peeling the onion skin layer by layer and heal each layer until it is fully clear. The work that [Alba Weinman](http://albaweinman.com/) where amazing.
 
+---
+
 Namaste

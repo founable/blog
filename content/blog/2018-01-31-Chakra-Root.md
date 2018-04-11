@@ -8,17 +8,17 @@ draft = false
 type = "post"
 +++
 
-## Root Chakra
+# Root Chakra
 
 This is our connection to the earth and the physical plain and a symbol of our basic survival needs. This chakra is located at the base of your tailbone
 
-### Physical Level
+## Physical Level
 
 Can be the cause of back ache, leg aches, overweights, underweight, and anemia. Tis can be from emotional baggage that we store. It is our connection to mother earth that is lacking.
 
-### Add Red
+## Add Red
 
-#### Food
+### Food
 - red berries
 - red pappers
 - tomotoes
@@ -26,17 +26,17 @@ Can be the cause of back ache, leg aches, overweights, underweight, and anemia. 
 - red potatoes
 - red lean meats
 
-#### Stone
+### Stone
 - Red Jaster
 - Ruby
 - Garnet
 
-#### Flowers
+### Flowers
 - Tulips
 - Red Roses
 - Red Amaryllis
 
-#### Essential Oils
+### Essential Oils
 - Rosewood
 - Rosemary
 - Sandalwood
@@ -53,6 +53,8 @@ Can be the cause of back ache, leg aches, overweights, underweight, and anemia. 
 Physical Aspected Regulated | Signs Of Imbalance
 --- | ---
 Kidneys, blood, skeletal system, immune system, rectum | Arthritis, kidney stones, osteoporosis, bone problem, autoimmune deficiencies, rectal problems, addictions, varicose veins, chonic lower back pain, depression
+
+---
 
 By  
 Dina Patel  
