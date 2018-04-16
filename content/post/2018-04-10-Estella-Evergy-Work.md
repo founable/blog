@@ -33,6 +33,8 @@ sign of coughing
 Company HQ in Mississippi/South Carolina
 Yellow Banner for Job
 
+## Kobolt Blue
+
 ---
 
 Namaste
