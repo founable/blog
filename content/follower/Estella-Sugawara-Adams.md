@@ -7,7 +7,7 @@ Psych Medium, Healer & Life Coach <br/>
 White Light Circle <br/>
 
 ### Contact
-PHone: 214-490-7379<br/>
+Phone: 214-490-7379<br/>
 Email: littledog84@gmail.com<br/>
 
 ### Address
