@@ -1,5 +1,5 @@
 title = "Founable"
-baseURL = ""
+baseURL = "founable.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "./themes/"
@@ -8,7 +8,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-66251714-2"
 enableRobotsTXT = true
 
 [sitemap]

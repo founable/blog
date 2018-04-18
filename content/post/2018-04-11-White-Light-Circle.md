@@ -12,14 +12,14 @@ type = "post"
 
 This was a few months ago when we have a class on guided meditation and i saw myself in a pod look like the picture below. I focus on the center crystal and a energy portal open and i went throught it. Next, I was traveling/flying forward where i see tree lines below my left and right, dark skies with start above me.
 
-![Pod](/images/Pod.jpg)
+![Pod](/images/vision-pod.jpg)
 
 - Dark Golden rhombus scale
 - Teardrop shape structure
 - Crystal/Lens/Glass floating on top of the round column
 - White column with square flat top
 
-![Pod](/images/EnergyPortal.jpg)
+![Pod](/images/vision-portal.jpg)
 - Energy portal
 
 ---
