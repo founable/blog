@@ -1,31 +1,45 @@
-title = "Founable"
-baseURL = "founable.com"
-languageCode = "en-us"
-theme = "gohugo-theme-ananke"
-themesDir = "./themes/"
+## Basic Configuration
+baseurl = ""
+languageCode = "en"
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = "UA-66251714-2"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
 enableRobotsTXT = true
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
+## Site Settings
 [params]
-  favicon = ""
-  description = "This sites design for me to post and share my experience while I explore and discovery the pseudo physical of me."
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = "https://github.com/jackteoh"
-  linkedin = "https://www.linkedin.com/in/jackteoh/"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/sunrise.jpg"
-  recent_posts_number = 5
+    author = "Jack Teoh"
+    title = "Founable"
+    description = " "
+    authorimage = "/images/potrait.png"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id" 
+
+## Social Accounts
+[params.social]
+    github = "jackteoh"
+    instagram = ""
+    xing = ""
+    linkedin = "jackteoh"
+    twitter = ""
+    facebook = ""
+    stackoverflow = ""
+    email = "contact@founable.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
