@@ -3,6 +3,6 @@ title = "About"
 date = "2018-04-18"
 +++
 
-It started when i was 12 years old. I am still primary school standard/year 6 which is equivelent to 6th grade in middle school in United States. The computer that i have was Intel Pendium MMX 166 and 56k modem for dialup internet.
+It started when i was 12 years old and the year was 1996. I create my first website using Yahoo GeoCities.
 
-That was the computer i used to create my first website using Yahoo GeoCities.
+This is a static sites generated via [HUGO](https://gohugo.io). It is hosted in GitHub with GitHub Page and domain by Google.
