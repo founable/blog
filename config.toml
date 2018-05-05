@@ -15,7 +15,7 @@ canonifyURLs = true
   # Sets the meta tag description
   description          = "This sites design for me to post and share my experience while I explore and discovery the pseudo physical within me."
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "PseudoPhysical"
+  navbarTitle          = "Founable"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
