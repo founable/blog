@@ -1,68 +1,203 @@
-baseurl         = "/"
-theme           = "hugo-casper-two"
-languageCode    = "en-US"
+baseurl = "http://founable.com/"
+languageCode = "en-us"
+title = "Founable"
+theme = "hugo-future-imperfect"
+preserveTaxonomyNames = true
+paginate = 5
 disqusShortname = ""
-paginate        = 6
-#SectionPagesMenu = "main"
-canonifyurls    = true
+googleAnalytics = ""
+pluralizeListTitles = false
+# Set the followings to true as part of your site SEO
+enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
-  title       = "Founable"
-  subtitle    = "Founder found Founable"
-  copyright   = "© 2018"
+  # Sets the meta tag description
+  description          = "This sites design for me to post and share my experience while I explore and discovery the pseudo physical within me."
+  # Sets the navbarTitle that appears in the top left of the navigation bar
+  navbarTitle          = "PseudoPhysical"
+  # Sets where "View More Posts" links
+  viewMorePostLink     = "/blog/"
 
-  cover       = "images/sunrise.jpg"
-  description = "Here is a description of your site."
-  metaDescription = ""
-  googleAnalytics = ""
-  customCSS = []
-  RSSLink = ""
+# Optional Params
+  # Sets navbarTitle to match the section of the website
+  dynamicTitles        = true
+  # Sets RSS icons to appear on the sidebar with the social media buttons
+  rssAppearAtTop       = true
+  rssAppearAtBottom    = true
+  # Sets Social Media icons to appear on the sidebar
+  socialAppearAtTop    = true
+  socialAppearAtBottom = true
+  # Sets Categories to sort by number of posts instead of alphabetical
+  categoriesByCount    = true
+  # set to show or to hide categories in the sidebar
+  showSidebarCategories = true
+  # Sets Estimated Reading Time to appear in post headers
+  includeReadingTime   = true
+  # Sets the Favicon and Version for the site. Default support is for
+  # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
+  # These are stored in the favicon folder. See the following for more information:
+  # https://github.com/audreyr/favicon-cheat-sheet
+  loadFavicon          = false
+  faviconVersion       = ""
+  # Sets Social Share links to appear on posts
+  socialShare          = true
+  # Sets specific share to appear on posts (default behavior is to appear)
+  socialShareTwitter   = true
+  socialShareGoogleplus = true
+  socialShareFacebook  = true
+  socialShareReddit    = true
+  socialShareLinkedin  = false
+  socialShareStumbleupon = true
+  socialSharePinterest = true
+  socialShareEmail     = true
 
-  twitterName = ""
-  fbName = ""
-  githubName = "jaxteoh"
-  linkedinName = "jaxteoh"
-  mediumName = ""
+  # Load custom CSS or JavaScript files. The variable is an array so that you
+  # can load multiple files if necessary. You can also load the standard theme
+  # files by adding the value, "default".
+  # customCSS            = ["default", "/path/to/file"]
+  # customJS             = ["default", "/path/to/file"]
+  customCSS            = ["default"]
+  customJS             = ["default"]
 
-  logo = ""
-  orgName = "DevOpsDays DFW"
-  orgWebsite = "https://www.devopsdays.org/"
-  orgDescription = "Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area."
+  # options for highlight.js (version, additional languages, and theme)
+  disable_highlight = false # set to true to disable Highlight
+  highlightjsVersion = "9.11.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml", "css"]
+  highlightjsTheme = "github"
+  MathJaxCDN = "//cdn.bootcss.com"
+  MathJaxVersion = "2.7.1"
 
-  showSupport = true
+# Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
+# due to its ease of use. Feel free to check out both and decide what you would
+# prefer to use. See Staticman.yml for additional settings.
+[params.staticman]
+  # Sets Statiman to be active
+  staticman = false
+  # Sets the location for Staticman to connect to
+  username  = ""
+  repo      = ""
+  branch    = ""
 
-  author = "Jack Teoh"
-  authorAvatar = "images/potrait.png"
-  authorLocation = ""
-  authorWebsite = ""
-  authorDescription = ""
+  [params.staticman.recaptcha]
+    sitekey = "SITE_KEY"
+    secret  = "ENCRYPTED_SECRET"
 
-  pageNotFoundTitle = "404 - Page not found"
+  # These are optional params related to the sidebar. They are recommended, but not
+  # required for proper functionality. HTML is supported within the params.
+[params.intro]
+  header    = "Welcome"
 
-  #casper or caspertwo
-  singleViewStyle = "casper"
+  paragraph = "Frisco, TX"
 
-[permalinks]
-  post = "/post/:slug/"
+  about     = "This sites design for me to post and share my experience while I explore and discovery the pseudo physical within me."
 
+  # This appears at the top of the sidebar above params.intro.header.
+  # A width of less than 100px is recommended from a design perspective.
+  [params.intro.pic]
+    src       = "/images/potrait.png"
+    # Sets Image to be a cirlce
+    circle    = true
+    # Sets Image to be Future Imperfect's hexagon
+    imperfect = false
+    width     = "144"
+    alt       = "PseudoPhysical"
+
+[params.postAmount]
+# Sets the number of recent posts to show in the sidebar. The default value is 5.
+    sidebar = 5
+
+# Sets the menu items in the navigation bar
+# Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 200
+  identifier = "fa fa-home"
+  weight = 1
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
-  weight = 100
+  name = "About"
+  url = "/about/"
+  identifier = "fa fa-id-card-o"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  identifier = "fa fa-newspaper-o"
+  weight = 3
+
+[[menu.main]]
+  name = "RA Collective"
+  url = "/RA Collective/"
+  identifier = "fa fa-tv"
+  weight = 4
+
+[[menu.main]]
+  name = "Contributor"
+  url = "/contributor/"
+  identifier = "fa fa-users"
+  weight = 5
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
-  weight = 99
+  identifier = "fa fa-list"
+  weight = 6
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
-  weight = 95
+  name = "Contact"
+  url = "/contact/"
+  identifier = "fa fa-envelope-o"
+  weight = 7
 
-
+# Sets Social Media icons to appear and link to your account. Value should be your
+# username unless otherwise noted. These are the icons affected by socialAppearAtTop
+# and socialAppearAtBottom.
+[social]
+  # Coding Communities
+  github           = "jackteoh"
+  gitlab           = ""
+  stackoverflow    = "" # User Number
+  bitbucket        = ""
+  jsfiddle         = ""
+  codepen          = ""
+  # Visual Art Communities
+  deviantart       = ""
+  flickr           = ""
+  behance          = ""
+  dribbble         = ""
+  # Publishing Communities
+  wordpress        = ""
+  medium           = ""
+  # Professional/Business Oriented Communities
+  linkedin         = "jackteoh"
+  linkedin_company = ""
+  foursquare       = ""
+  xing             = ""
+  slideshare       = ""
+  # Social Networks
+  facebook         = ""
+  googleplus       = ""
+  reddit           = ""
+  quora            = ""
+  youtube          = ""
+  vimeo            = ""
+  whatsapp         = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    wechat         = ""
+    qq             = "" # User ID Number
+  instagram        = ""
+  tumblr           = ""
+  twitter          = ""
+  skype            = ""
+  snapchat         = ""
+  pinterest        = ""
+  telegram         = ""
+  vine             = ""
+  googlescholar    = ""
+  orcid            = ""
+  researchgate     = ""
+  # Email
+  email            = "contact@pseudophysical.com"
