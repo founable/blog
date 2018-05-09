@@ -30,8 +30,5 @@ Close your eyes and concentrate on your breathing. Call upon Archangel Rapheal's
 Close your eyes and concentrate on your breathing. Picture Archangel Rapheal in front of you and greet him with hug. You will take his hand and walk through the green grass and green vines, everything around you is noce and green. He then guide you to his crystal healing bed. As you lay on the bed ask for healing in specific areas of need or you can just be guided by his healing. He will be at the head of the bed sending his healing emerald light through your body. There will be also Angels to your left and righ, they will help him with your healing. At your feed will be another Angel that will be extrating all that is coming out of your body like a vacuum. You can stay there till you feel rady and healed. He will then help you get up from the healing table and walk you back. You say your goodbye and come back to the room when ready.
 
 ---
-
-By  
-
-Guided by
-[Rosa](http://pseudophysical.com/contributor/rosa-garcia/)
+by
+[Rosa Garcia](http://pseudophysical.com/contributor/rosa-garcia/)

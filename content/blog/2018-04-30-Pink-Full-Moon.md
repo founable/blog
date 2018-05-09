@@ -33,6 +33,5 @@ Burn the paper. You can let the ashes float away into the wind or burn and flush
 Go to your safe place and see your foundation of life. It can be anything you like..walk over to the foundation and throw it in the air so it’s above you floating. Looks for any holes or cracks. Begin to fill those holes and cracks with all your intentions it can be anything you like. Make sure everything is filled. Then call in your spirit animal ask them to in case/wrap your foundation of life. Once it’s done that them and float as high above the foundation- go super far keep your eyes on the foundation. Then with all your speed go straight towards the foundation and push it into Mother Earth. Once it hits Mother Earth if any pieces came off ask your guides what that means for you. This could mean anything!!! This is your foundation to build on. This meditation can be done on the full and new moon! Happy full moon!!!!!!
 
 ---
-
-Guided by
-[Dina](http://pseudophysical.com/contributor/dina-patel/)
+by
+[Dina Patel](http://pseudophysical.com/contributor/dina-patel/)

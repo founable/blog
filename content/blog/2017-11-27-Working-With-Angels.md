@@ -31,4 +31,4 @@ Thank you Angels for joining me in my journey. It is good to know that you are r
 
 By
 
-[Rosa](http://pseudophysical.com/contributor/Rosa-Garcia/)
+[Rosa](http://pseudophysical.com/contributor/rosa-garcia/)

@@ -38,6 +38,5 @@ Thank you, Archangel Jophiel for clearing the clustter in my mind so that i can 
 I breathe deeply and fill my core with fresh clean air. As i exhale, I release the clutter of my mind and body. Doing this, I allow myself to see and hear more clearly. Thank you, Archangel Jophiel for supporting me as i discover my inner beauty, and for silencing the voice of my ego so that i can clearly hear god. I feel so alive knowingy your wings are taking me forward. And so it is!
 
 ---
-
 By  
-Rosa Garcia  
+[Rosa Garcia](http://pseudophysical.com/contributor/rosa-garcia/)
