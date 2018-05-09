@@ -8,7 +8,9 @@ draft = false
 type = "post"
 +++
 
-RA channeling by Pamera Aaralyn. This is the transcript of the Q/A. It is automatically transcribe by using Amazon Transcribe then manual transcribe by me. Thank you
+{{% youtube id="RuK29jnI03U" autoplay="false"%}}
+
+RA channeling by Pamera Aaralyn. This is the transcript of the Q/A is automatically transcribe by using Amazon Transcribe then manual transcribe by me. Thank you
 
 ---
 
