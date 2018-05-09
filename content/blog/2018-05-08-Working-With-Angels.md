@@ -19,6 +19,7 @@ Lioness of God, Archangel Ariel is aligned with the Natural World, with Animals 
 
 Archangel Ariel, please come in and connect with me now. Help me connect with your healing light, to benefit the earth, the animal kingdoms and all of the natural world. Help me heal my life, and to connect with and overflow divine love throughout all. Thank you! And so it is!
 
+
 ---
 By  
 [Rosa Garcia](http://pseudophysical.com/contributor/rosa-garcia/)
