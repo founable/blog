@@ -3,7 +3,7 @@ title = "RA Collective Channel - Part 1"
 description = "Q/A Part 1, RA Collective Channel by Aurora"
 date = "2018-03-17"
 categories = ["RA"]
-tags = ["RA", "Energy","Trance Channel","YouTube"]
+tags = ["RA","Trance Channel","YouTube"]
 draft = false
 type = "post"
 +++
@@ -44,4 +44,6 @@ Aurora: I am RA. She would like to finish our answer. The biggest message that w
 
 Julia: Aurora, Aurora thank you and thank you so much for the collective RA for being here and the beautiful loving message I thank you for all of those who have listened and who will listen in the future to this message, love you honor you I respect you, thank you so much.
 
----
+----
+
+by [Auraro](https://www.risingphoenixaurora.com/)
