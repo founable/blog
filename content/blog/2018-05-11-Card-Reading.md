@@ -12,7 +12,7 @@ type = "post"
 
 ---
 
-This is video was special because i had a card reading from her. My reading start at 8:50 - 13:00
+This is video was special because i had a card reading from her. My reading is at 8:50 - 13:00
 
 ---
 By  
