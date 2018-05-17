@@ -1,9 +1,9 @@
 +++
-title = "Free Writing"
-description = "First Free Wrting for one of my fellow circle"
+title = "Automatic Writing"
+description = "First Automatic Wrting for one of my fellow circle"
 date = "2018-05-14"
-categories = ["Free Writing"]
-tags = ["Free Writing"]
+categories = ["Automatic Writing"]
+tags = ["Automatic Writing"]
 draft = false
 type = "post"
 +++
