@@ -3,7 +3,7 @@ type = "itemized"
 author = ""
 date = "2017-06-22"
 title = "Rosa Garcia"
-description = "Healing with Angel"
+description = "Intuitive Healer / Curandera Espiritista"
 featured = ""
 featuredpath = ""
 featuredalt = ""
@@ -12,3 +12,10 @@ linktitle = ""
 format = "Dallas, TX"
 link = "#"
 +++
+
+### Contact
+Phone: 972-803-0177<br/>
+Email: rlgarcia1978@gmail.com<br/>
+
+- EmoTrance Practitioner / Practicante de EmpTrance
+- Laying on of Hands Healing / Impostacion de las Manos
