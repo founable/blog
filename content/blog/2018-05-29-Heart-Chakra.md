@@ -2,7 +2,7 @@
 title = "Heart Chakra"
 description = ""
 date = "2018-05-29"
-categories = ["Energy"]
+categories = ["Energy","Chakra"]
 tags = ["Meetup"]
 draft = false
 type = "post"
