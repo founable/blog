@@ -39,4 +39,4 @@ type = "post"
 
 ---
 by
-[Dina Patel](http://pseudophysical.com/contributor/dina-patel/)
+[Dina Patel](http://founable.com/contributor/dina-patel/)
